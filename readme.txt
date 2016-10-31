@@ -1,0 +1,16 @@
+Editor : AsLupin Setsu
+
+AKINO from bless4
+TV???????????? -???-??????????
+??(???)
+
+Thank Code.
+my railgun on C++ : https://youtu.be/9nbHM1zQBrU
+xerodotc  : https://www.youtube.com/user/xerodotc
+
+/*
+* CREDIT
+* Modified from only my railgun on C++
+*
+* Creator : xerodotc 
+*/
